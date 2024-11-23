@@ -1,2 +1,2 @@
-**Hello!**
-I am a software developer, and I sometimes make things!
+- **Hello!**
+- I am a software developer, and I sometimes make things!
